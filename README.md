@@ -1,2 +1,2 @@
 # ffjm
-Federation Française des Jeux de Mathématiques
+Federation Française des Jeux Mathématiques
